@@ -9,4 +9,4 @@
 
   
   - name: Deploy Docker Container
-    command: docker run -itd -p 8085:8081 jayant2327/insurance_app:latest
+    command: docker run -itd -p 8086:8081 jayant2327/insurance_app:latest
